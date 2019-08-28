@@ -3,15 +3,15 @@
 컴퓨터 공학을 전공하면서 중요하게 생각하는 지식을 저장하는 Repository입니다.
 
 ## Table Of Content
-- [운영체제](Operating_System/README.md)
+- [운영체제](Operating_System/main.md)
 
-- [데이터베이스](DataBase/README.md)
+- [데이터베이스](DataBase/main.md)
 
-- [네트워크](Network/README.md)
+- [네트워크](Network/main.md)
 
-- [자료구조](Data_Structure/README.md)
+- [자료구조](Data_Structure/main.md)
 
-- [알고리즘](Algorithm/README.md)
+- [알고리즘](Algorithm/main.md)
 
 ## Resources Used
 > 운영체제
