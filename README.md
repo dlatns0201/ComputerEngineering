@@ -7,7 +7,7 @@
 
 - [데이터베이스](DataBase/README.md)
 
-- [네트워크](Network/main.md)
+- [네트워크](Network/README.md)
 
 - [자료구조](Data_Structure/README.md)
 
