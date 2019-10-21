@@ -5,15 +5,9 @@
 ## Table Of Content
 - [운영체제](Operating_System/README.md)
 
-<<<<<<< HEAD
-- [데이터베이스](DataBase/REAMDE.md)
-
-- [네트워크](Network/REAMDE.md)
-=======
 - [데이터베이스](DataBase/README.md)
 
 - [네트워크](Network/README.md)
->>>>>>> 6c163ea461b8a44870b79a4e8fe50c171bab4cff
 
 - [자료구조](Data_Structure/README.md)
 
